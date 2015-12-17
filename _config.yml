@@ -1,7 +1,7 @@
 name: CURRENTFORM
 favicon: null
-layout_spectrum: 0.04247145773842931
-typography_spectrum: 0.06761960661970079
+layout_spectrum: 0
+typography_spectrum: 0.74852
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#231f20'
+    - '#0000ff'
+    - '#000000'
+    - '#240000'
+    - '#141414'
   brandStrength: 0.4803331773728132
-  lightness: 0.1149120987392962
+  lightness: 1
   saturation: 0.6775362661574036
   rhythmicContrast: 0.6475573135539889
 purpose: []
