@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CURRENTFORM]]></title>
+        <description><![CDATA[CURRENTFORM]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 01:45:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is CURRENTFORM]]></title>
+            <description><![CDATA[<article><h1>This is CURRENTFORM</h1><p>CURRENTFORM is a project platform and creative network based in Toronto, Canada. We're an interdisciplinary network of designers, thinkers and makers coming together to craft exceptional experiences, with a focus on the tangible.</p></article>]]></description>
+            <link>undefinedthis-is-currentform/index.html</link>
+            <guid isPermaLink="false">8d9c2742-ab4d-425d-a8ee-9431bf9043c0</guid>
+            <pubDate>Thu, 17 Dec 2015 01:45:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
